@@ -2,3 +2,8 @@ This is my first program
 Second
 Third
 Fourth
+<<<<<<< HEAD
+=======
+Six
+Fifth
+>>>>>>> 3f2a67b (Fifth commit)
